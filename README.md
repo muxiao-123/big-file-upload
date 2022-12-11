@@ -1,10 +1,8 @@
 # big-file-upload
 big file upload demo
 
-##
-cd client
+## cd client
 `npm run dev`
 
-##
-cd server
+## cd server
 `npm run dev`
