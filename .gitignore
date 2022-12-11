@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+
+client/node_modules/
+server/node_modules/
+*.local
+server/api/
+server/types/
+
+# Editor directories and files
+client/.vscode/
